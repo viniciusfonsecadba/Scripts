@@ -1,0 +1,1 @@
+select distinct hostname, loginame , program_name from sysprocesses 
